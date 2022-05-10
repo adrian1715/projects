@@ -1,0 +1,16 @@
+form .form-group {
+  display: flex;
+  justify-content: center;
+}
+
+#chute {
+  width: 15%;
+  margin-right: 10px;
+}
+
+.letter-wrapper {
+  padding: 0 !important;
+  font-size: 23px;
+  width: 45px;
+  height: 40px;
+}
